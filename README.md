@@ -25,5 +25,4 @@ Welcome To The World Of Cyber Security!
  
  
  ## WARNING
- Please stay away from any kind of unfair means. If caught harsh punishment will be awarded.
- **HAPPY** **LEARNING** 
+ Please stay away from any kind of unfair means. If caught harsh punishment will be awarded.   
