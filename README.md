@@ -17,11 +17,14 @@ Welcome To The World Of Cyber Security!
 
  
  ## Grading Benchmark
- Each task of the week contains some points but the most important thing is **rewarding** **criteria** and that will be based on :
- **TODO**
+ Each task of the week contains some points but the most important thing is knowing the different type of issues.
+ There are three types:
+ 1. Open For All [tag: open-for-all]: Directly make a pull request. No need to ask to be assigned.
+ 2. Competitive [tag: everyone]: Directly make a pull request. No need to ask to be assigned.
+ 3. First Come First Serve [default]: Mentors will the assign the issues and only then you can make a pull request to get the points.
  
  ## Communication
- If you are facing any kind of doubt then feel free to ask on our [discord](https://discord.gg/vfpyyA8WVs) channel.
+ If you are facing any kind of difficulty or just want to chat then feel free to ask on our [discord](https://discord.gg/vfpyyA8WVs) channel.
  
  
  ## WARNING
