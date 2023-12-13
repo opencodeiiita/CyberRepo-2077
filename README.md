@@ -22,6 +22,13 @@ Welcome To The World Of Cyber Security!
  1. Open For All [tag: open-for-all]: Directly make a pull request. No need to ask to be assigned.
  2. Competitive [tag: everyone]: Directly make a pull request. No need to ask to be assigned.
  3. First Come First Serve [default]: Mentors will the assign the issues and only then you can make a pull request to get the points.
+
+## PR Template
+```
+Issue: #<ISSUENUMBER>
+
+Make sure to add all the required items(i.e Screenshots GIFS etc.) as per each issue.
+```
  
  ## Communication
  If you are facing any kind of difficulty or just want to chat then feel free to ask on our [discord](https://discord.gg/vfpyyA8WVs) channel.
