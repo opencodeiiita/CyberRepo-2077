@@ -6,7 +6,7 @@
 **Open for All**
 || Task		| Points	|	Format To Submit	|
 |--| ------------- 	| -------------	|	-------------------		|
-|1| Install kali linux operating system (as a VM) | 20  |	G	|
+|1| Install kali linux operating system (as a VM) | 20  |	S	|
 |2| Run command to access super user mode and give executable permission to any file. | 10  |C+S|
 |3| Execute a BASH command to print the contents of the environment variable PATH  | 10  |C+S|
 |4| Install BurpSuite and configure it on your browser.  | 10  |S|
