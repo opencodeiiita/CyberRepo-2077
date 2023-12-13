@@ -16,7 +16,7 @@
 **Compete**
 || Task		| Points	|	Format To Submit	|
 |--| ------------- 	| -------------	|	-------------------		|
-|1| Write python program such that you can print only the hidden files in a directory and run it in the terminal. | 30  |C+S|
+|7| Write python program such that you can print only the hidden files in a directory and run it in the terminal. | 30  |C+S|
 
 | Index |            |
 | ----- | ---------- |
