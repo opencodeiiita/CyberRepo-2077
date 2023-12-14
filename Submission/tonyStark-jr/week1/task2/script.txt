@@ -1,0 +1,2 @@
+touch services.sh
+sudo chmod +x services.sh
