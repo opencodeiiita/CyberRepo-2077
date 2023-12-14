@@ -1,0 +1,3 @@
+//To make executable
+
+sudo chmod +x forexecutable 
