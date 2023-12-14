@@ -1,1 +1,0 @@
-sudo chmod +x task2.sh
