@@ -1,2 +1,0 @@
-sudo su # for gaining super user access you need password for that
-chmod +X filename.ext # command for changing file permissions
