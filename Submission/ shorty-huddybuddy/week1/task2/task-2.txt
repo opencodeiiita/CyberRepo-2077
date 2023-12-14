@@ -1,0 +1,2 @@
+sudo chmod +x "folder name"
+sudo chmod +x hello.sh
