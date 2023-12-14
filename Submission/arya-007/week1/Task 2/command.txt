@@ -1,3 +1,7 @@
 //To make executable
 
 sudo chmod +x forexecutable 
+
+//For super user mode
+
+sudo su 
