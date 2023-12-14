@@ -1,0 +1,2 @@
+echo $PATH 
+# for printing out the environment variable PATH
