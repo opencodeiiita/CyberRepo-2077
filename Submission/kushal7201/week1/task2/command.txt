@@ -1,1 +1,2 @@
+sudo su
 sudo chmod +x <filename>
