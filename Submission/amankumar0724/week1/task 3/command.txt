@@ -1,0 +1,2 @@
+echo $PATH | tr ':' '\n' | xargs ls    // This command enlists all the files in the directory stored in environment 
+                                       // variable PATH
