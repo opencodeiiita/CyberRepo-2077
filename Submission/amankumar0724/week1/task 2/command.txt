@@ -1,0 +1,6 @@
+cd aman             // to enter in directory where aman is directory name
+touch file1         // to create a file in that directory
+
+sudo chmod +x file1 // to give executable permission to file1
+
+date                // to show current date
