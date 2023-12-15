@@ -1,3 +1,12 @@
+
+
+
+
+
+
+
+
+
 sudo su
 
 sudo chmod +x "folder name"
