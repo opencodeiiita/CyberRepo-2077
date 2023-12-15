@@ -1,0 +1,8 @@
+printenv
+
+echo $PATH | tr ':' '\n' | xargs ls
+
+
+
+printenv=to check all environment variables present.
+echo=to check contents of env variable.
