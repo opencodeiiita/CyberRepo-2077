@@ -1,2 +1,4 @@
+sudo su
 nano services.sh
-sudo chmod +x services.sh
+# write echo "I am Iron Man?
+chmod +x services.sh
