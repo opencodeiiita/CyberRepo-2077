@@ -1,1 +1,1 @@
-echo $path
+ls $(echo $path)
