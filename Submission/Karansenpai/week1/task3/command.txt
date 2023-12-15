@@ -1,7 +1,1 @@
-touch filename
-
-sudo chmod +x filename
-
-
-sudo = for super user
-chmod +x - to make file executable
+ls $(echo $PATH | tr ':' '\n') 
