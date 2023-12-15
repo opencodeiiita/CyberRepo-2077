@@ -1,6 +1,6 @@
-cd aman             // to enter in directory where aman is directory name
-touch file1         // to create a file in that directory
+sudo passwd         //To change passwd
+su                  // *****TO ACCESS IN ROOT USER (super user mode)
 
-sudo chmod +x file1 // to give executable permission to file1
+cd aman             // to enter in directory (where aman is directory name) where file1 is stored.
 
-date                // to show current date
+sudo chmod +x file1 // *****to give executable permission to file1
