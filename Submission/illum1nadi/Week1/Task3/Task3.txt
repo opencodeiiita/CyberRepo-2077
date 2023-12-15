@@ -1,0 +1,8 @@
+printenv
+
+echo $PATH
+
+
+
+printenv=to check all environment variables present.
+echo=to check contents of env variable.
