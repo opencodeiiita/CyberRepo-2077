@@ -1,0 +1,8 @@
+touch first.cpp
+sudo su
+chmod +rwx firstprog.cpp
+
+
+touch=to access the file
+sudo su=for accessing super user
+chmod +rwx=to assign executable permission

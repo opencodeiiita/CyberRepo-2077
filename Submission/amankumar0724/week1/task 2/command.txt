@@ -1,0 +1,6 @@
+sudo passwd         //To change passwd
+su                  // *****TO ACCESS IN ROOT USER (super user mode)
+
+cd aman             // to enter in directory (where aman is directory name) where file1 is stored.
+
+sudo chmod +x file1 // *****to give executable permission to file1

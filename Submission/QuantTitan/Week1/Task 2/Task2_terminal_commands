@@ -1,0 +1,2 @@
+To login as super user: sudo -i  
+To make a file named "test_executable_file" executable: chmod +x test_executable_file  

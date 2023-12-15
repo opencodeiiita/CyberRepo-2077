@@ -1,0 +1,1 @@
+Added proxy on chrome and brave and intercepted website using Burpsuite.

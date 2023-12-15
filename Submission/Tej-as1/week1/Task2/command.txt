@@ -1,0 +1,5 @@
+// for super user mode
+sudo su
+
+//To make executable
+sudo chmod +x executable
