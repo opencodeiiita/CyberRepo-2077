@@ -1,6 +1,6 @@
 printenv
 
-echo $PATH
+echo $PATH | tr ':' '\n' | xargs ls
 
 
 
