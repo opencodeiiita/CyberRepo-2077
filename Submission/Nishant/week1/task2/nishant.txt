@@ -1,0 +1,1 @@
+command is :: chmod +x file.exe
