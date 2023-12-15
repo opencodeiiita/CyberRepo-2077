@@ -1,0 +1,1 @@
+echo $PATH for print content of path variable
