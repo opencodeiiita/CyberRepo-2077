@@ -1,0 +1,3 @@
+sudo su
+chmod +x helloWorld.sh
+./helloWorld.sh
