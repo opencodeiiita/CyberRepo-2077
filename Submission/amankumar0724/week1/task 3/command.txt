@@ -1,0 +1,2 @@
+echo $PATH  // this command uses "echo" command to display the value of the "PATH" environment variable, which
+            // contains the search path for executing commands and scripts.
