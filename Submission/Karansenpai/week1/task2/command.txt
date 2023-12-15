@@ -1,7 +1,9 @@
+
+
+sudo su - for super user
+
 touch filename
 
-sudo chmod +x filename
+chmod +x filename
 
-
-sudo = for super user
 chmod +x - to make file executable
