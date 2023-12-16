@@ -1,3 +1,2 @@
-#!/bin/bash
-
-echo "Ur MoM"
+sudo su
+sudo +x chmod
