@@ -1,0 +1,2 @@
+command to access super user : sudo su
+command to give permission a file executable : chmod +x toMakeExecutable
