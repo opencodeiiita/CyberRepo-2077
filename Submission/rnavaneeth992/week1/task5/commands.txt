@@ -1,0 +1,6 @@
+sudo apt install -y tor torbrowser-launcher - To Install Tor Browser
+torbrowser-launcher - To Launch Tor Browser
+
+sudo apt install bettercap - To Install Bettercap
+bettercap -version - To check version
+bettercap -h - Help 
