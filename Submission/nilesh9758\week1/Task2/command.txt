@@ -1,0 +1,4 @@
+sudo su
+//enter password
+sudo chmod +x <filename>
+./<filename>
