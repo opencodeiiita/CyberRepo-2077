@@ -1,0 +1,5 @@
+# Prints the values in the PATH environment variable
+echo $PATH | tr ":" "\n"
+
+#  Lists the contents of each directory in the PATH environment variable
+ls $(echo $PATH | tr ":" " ")
