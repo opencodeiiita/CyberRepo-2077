@@ -1,4 +1,5 @@
-command sudo for accessing the  super user mode
-then command to give executable permission to file security.sh
+sudo su for accessing supper user mode
+sudo su
 
-sudo chmod +x security.sh
+sudo chmod +x cyber.sh 
+command for executing the file 
