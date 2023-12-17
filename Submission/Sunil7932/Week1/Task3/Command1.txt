@@ -1,0 +1,7 @@
+echo $PATH | tr ':' '\n'
+
+
+for dir in $(echo $PATH | tr ':' ' '); do ls $dir; done
+
+
+// @Rakim I have added 3 Screenshot because it is so large please also consider this 
