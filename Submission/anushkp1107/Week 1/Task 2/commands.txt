@@ -1,0 +1,5 @@
+command to access super user mode:
+sudo su
+
+command to give executable permission to file cyber.sh:
+sudo chmod +x cyber.sh
