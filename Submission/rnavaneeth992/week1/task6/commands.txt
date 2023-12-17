@@ -1,0 +1,2 @@
+chmod +x 6.sh - Change Persmission to make it executable
+./6.sh - To Run Bash File
