@@ -1,0 +1,1 @@
+python 7.py - To Run python code
