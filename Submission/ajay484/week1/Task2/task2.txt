@@ -1,0 +1,4 @@
+gedit weekfirst_task2
+ls -l
+sudo chmod +x weekfirst_task2
+./weekfirst_task2
