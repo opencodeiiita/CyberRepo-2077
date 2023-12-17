@@ -1,0 +1,6 @@
+
+echo "${PATH//:/$'\n'}"
+(This prints all the directories in PATH variable)
+
+ls $(echo $PATH | tr ':' ' ')
+(This Prints all the contents of all the directories specified in the PATH encironment variable)
