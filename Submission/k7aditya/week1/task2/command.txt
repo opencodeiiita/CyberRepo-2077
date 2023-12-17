@@ -1,0 +1,5 @@
+# Command to access superuser mode
+sudo su
+
+# Command to give executable permission to a file
+chmod +x /path/to/your/file

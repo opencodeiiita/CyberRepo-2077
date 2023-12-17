@@ -1,0 +1,8 @@
+sudo su
+(to change to root)
+
+chmod +x hello.cpp
+(changes the mode or rather add executable permission for all users to executable)
+
+ls 
+(hello.cpp is green denoting that its an executable)
