@@ -1,1 +1,1 @@
-echo $PATH
+ls $(echo $PATH | tr ":" " ")
