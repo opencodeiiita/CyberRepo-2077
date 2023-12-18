@@ -1,11 +1,5 @@
-┌──(kali㉿kali)-[~]
-└─$ sudo su
-[sudo] password for kali: 
-┌──(root㉿kali)-[/home/kali]
-└─# cd Desktop
-                                                                             
-┌──(root㉿kali)-[/home/kali/Desktop]
-└─# chmod +x hello.sh
-                                                                             
-┌──(root㉿kali)-[/home/kali/Desktop]
-└─# ./hello.sh
+//For the Super User Mode
+sudo su
+                                                                      
+//For changing the file permission to an executable
+chmod +x hello.sh
