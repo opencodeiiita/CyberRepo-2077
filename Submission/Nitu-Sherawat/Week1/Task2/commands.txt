@@ -1,0 +1,4 @@
+// For super user mode
+ sudo su
+// For executable permission
+sudo chmod +x test.sh
