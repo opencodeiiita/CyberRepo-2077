@@ -1,0 +1,6 @@
+touch file.py
+
+cat file.py
+
+python3 file.py   // to excute python program
+
