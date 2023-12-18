@@ -1,0 +1,2 @@
+sudo su # access super-user mode
+chmod +x welcome.sh #welcome.sh file is already present. Gets exe permission

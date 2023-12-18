@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+
+import os
+
+def print_hidden_files(directory):
+    for filename in os.listdir(directory):
+        if filename.startswith('.'):
+            print(filename)
+
+# Replace '/path/to/directory' with the path of your directory
+print_hidden_files('/path/to/directory')

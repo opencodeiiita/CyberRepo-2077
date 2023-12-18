@@ -1,0 +1,4 @@
+# Superuser mode
+sudo su
+# Give executable permissions
+chmod +x filename

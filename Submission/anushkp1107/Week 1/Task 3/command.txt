@@ -1,0 +1,2 @@
+command to print contents of the environment variable PATH:
+ls $(echo $PATH | tr ":" " ")
