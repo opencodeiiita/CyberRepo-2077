@@ -1,7 +1,7 @@
 
 # Week-1 : 
 
-**( Timeline : 14<sup>th</sup> December'23 - 21<sup>th</sup> December'23 )**
+**( Timeline : 00:00 on 14<sup>th</sup> December'23 - 23:59 on 20<sup>th</sup> December'23 )**
 
 **Open for All**
 || Task		| Points	|	Format To Submit	|
