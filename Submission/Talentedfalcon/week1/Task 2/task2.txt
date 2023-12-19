@@ -1,0 +1,5 @@
+//For the Super User Mode
+sudo su
+                                                                      
+//For changing the file permission to an executable
+chmod +x hello.sh

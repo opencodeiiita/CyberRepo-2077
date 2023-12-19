@@ -1,0 +1,7 @@
+import os
+
+cwd = os.getcwd()
+files = os.listdir(cwd)
+for file in files:
+    if file.startswith('.'):
+        print(file)

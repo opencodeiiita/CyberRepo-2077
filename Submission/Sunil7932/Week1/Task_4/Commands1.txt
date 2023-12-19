@@ -1,0 +1,5 @@
+//first download
+
+chmod +x burpsuite_community_linux_v2023_10_1_2.sh
+
+./burpsuite_community_linux_v2023_10_1_2.sh   //use to upacked JRK

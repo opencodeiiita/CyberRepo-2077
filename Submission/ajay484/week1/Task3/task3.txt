@@ -1,0 +1,7 @@
+This command for printing all the directories in the path variable:
+
+echo "${PATH//:/$'n'}"
+
+
+This command will print all the directoris specified in the path environmet vairable:
+ls $(echo $PATH | tr ':' ' ')

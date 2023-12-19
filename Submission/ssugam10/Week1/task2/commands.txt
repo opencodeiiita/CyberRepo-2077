@@ -1,0 +1,4 @@
+sudo su
+sudo chmod +x new.sh
+./new.sh
+date

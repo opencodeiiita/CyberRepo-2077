@@ -1,0 +1,5 @@
+sudo su for accessing supper user mode
+sudo su
+
+sudo chmod +x cyber.sh 
+command for executing the file 

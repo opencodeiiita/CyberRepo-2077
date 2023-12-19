@@ -1,0 +1,2 @@
+sudo su # for gaining super user access you need password for that.
+sudo chmod +x executable # command for changing file permission.

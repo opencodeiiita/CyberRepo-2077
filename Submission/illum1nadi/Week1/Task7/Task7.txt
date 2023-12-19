@@ -1,0 +1,16 @@
+import os
+
+cur_dir=os.getcwd()
+
+files=os.listdir(cur_dir)
+
+hidden_files=[file for file in files if file.startswith('.')]
+
+if hidden_files:
+
+    print("Hidden files in the directory are below:")
+    for file in hidden_files:
+        print(file)
+
+else:
+    print("No hidden files in the directory.")
