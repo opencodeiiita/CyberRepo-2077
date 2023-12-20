@@ -1,0 +1,10 @@
+import os
+
+def list_hidden_files(directory):
+    for filename in os.listdir(directory):
+        if filename.startswith('.'):
+            print(filename)
+
+if __name__ == "__main__":
+    directory_path = input("Enter the directory path: ")
+    list_hidden_files(directory_path)
