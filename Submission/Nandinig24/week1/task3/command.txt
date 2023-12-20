@@ -1,0 +1,2 @@
+timedatectl
+ls $(echo $PATH | tr ":" " ")
