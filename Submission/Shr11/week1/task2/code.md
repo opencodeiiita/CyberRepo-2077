@@ -1,3 +1,3 @@
-# Command to execute a file using super user mode 
+# command to access super user mode and give executable permission to any file.
 
-sudo chmod +x <file_name>
+sudo chmod +x <filename>
