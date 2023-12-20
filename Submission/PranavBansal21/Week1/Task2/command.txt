@@ -1,0 +1,4 @@
+//Root user
+sudo su 
+//Give exectable permissions to a file
+chmod +x <filename>
