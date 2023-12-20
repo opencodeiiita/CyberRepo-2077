@@ -1,0 +1,5 @@
+sudo su
+touch file5
+sudo chmod +x file5
+ls -lah file5
+date
