@@ -1,0 +1,15 @@
+import os
+
+def hidden_files(directory):
+    return [file for file in os.listdir(directory) if file.startswith('.')]
+
+directory = input("Enter the directory to search for hidden files: ")
+
+hidden_files_list = hidden_files(directory)
+
+if hidden_files_list:
+    print("Hidden files in the directory:")
+    for file in hidden_files_list:
+        print(file)
+else:
+    print("No hidden files found in the directory.")
