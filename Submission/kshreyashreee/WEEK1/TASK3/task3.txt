@@ -1,0 +1,2 @@
+BASH command to print the contents of the environment variable PATH:
+ls $(echo $PATH | tr ':' '\n'
