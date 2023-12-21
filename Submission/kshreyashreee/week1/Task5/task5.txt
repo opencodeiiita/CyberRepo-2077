@@ -1,1 +1,0 @@
-Bettercap and Tor Broswer successfully configured in the Browser

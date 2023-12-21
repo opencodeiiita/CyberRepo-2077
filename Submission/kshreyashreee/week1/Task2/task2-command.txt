@@ -1,2 +1,0 @@
-Run Command to Access Super User Mode : sudo su
-Give Executable Permission to Any File : chmod +x filename(makeitexecutable)
