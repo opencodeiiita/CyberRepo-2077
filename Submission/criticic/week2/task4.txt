@@ -1,0 +1,9 @@
+This is the source code for a upcoming ai chatbot called HaxGPT.
+While the company tries to appear as a friendly company,
+there appears to be something sinister going on in the background.
+We have gotten partial access to one of the subsystems of the project.
+Your task is to find any vulnerabilities in the code and report them
+to the government. So that we can shut down the project, once and for all, 
+before it is too late.
+
+PFA: userProfile => compiled binary of the userProfile subsystem
